@@ -5687,6 +5687,14 @@ OpenType Feature File:
   tm_scope: source.opentype
   ace_mode: text
   language_id: 374317347
+Operon:
+  type: programming
+  color: "#E4409A"
+  extensions:
+  - ".op"
+  tm_scope: source.operon
+  ace_mode: text
+  language_id: 1067292665
 Option List:
   type: data
   color: "#476732"
